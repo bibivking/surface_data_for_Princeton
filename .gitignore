@@ -1,0 +1,9 @@
+*.o
+*.mod
+*.txt
+*.sh.o*
+*.nc
+*.sh
+*.pdf
+*/*.pdf
+*/*.nc

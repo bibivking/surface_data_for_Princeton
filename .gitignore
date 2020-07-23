@@ -1,6 +1,7 @@
 *.o
 *.mod
 *.txt
+*.Log
 *.sh.o*
 *.nc
 *.sh
